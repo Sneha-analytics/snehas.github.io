@@ -17,19 +17,19 @@ I am passionate about turning raw data into meaningful insights that support dec
 
 ## 🔹 Featured Projects
 
-### [Excel Projects](./Excel.md)
+### [Excel Projects](./Projects/Excel.md)
 - Team Hiring Report Analysis (Main)  
 - Loan Applicants Dashboard (Also Completed)  
 
-### [Tableau Projects](./Tableau.md)
+### [Tableau Projects](./Projects/Tableau.md)
 - Women in STEM Dashboard (Main)  
 - Gender Bias in Technical Fields Dashboard (Also Completed)  
 
-### [Python Projects](./Python.md)
+### [Python Projects](./Projects/Python.md)
 - Library Book Management System (Main)  
 - English Dictionary App (Also Completed)  
 
-### [SQL Projects](./SQL.md)
+### [SQL Projects](./Projects/SQL.md)
 - E-Commerce User Platform Analysis (Main)  
 - Alumni Career Path Analysis (Also Completed)  
 
