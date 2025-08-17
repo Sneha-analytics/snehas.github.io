@@ -1,20 +1,21 @@
-# 👩‍💻 Sneha S – Data Analyst & Junior Software Engineer (Aspiring)
+# 👩‍💻 Sneha S – Data Analyst
 
 Welcome to my portfolio!  
-I am a recent Computer Science graduate and certified Data Analyst, with hands-on experience in **Excel, Tableau, SQL, and Python** through coursework, academic projects, and internships.  
-I am passionate about turning raw data into meaningful insights and also interested in software development.  
+I am a recent Computer Science graduate and certified Data Analyst with hands-on experience in **Excel, Tableau, SQL, and Python** through coursework, academic projects, and internships.  
+I am passionate about turning raw data into meaningful insights that support decision-making.  
 
 ---
 
 ## 🔑 Skills
-- **Programming & Development:** Python (OOP, Tkinter, File Handling), JavaScript (basic), HTML/CSS (basic)  
-- **Databases:** MySQL, SQLite3  
 - **Data Analysis & Visualization:** Excel (VBA, PowerQuery, Pivot Tables), Tableau  
-- **Concepts:** CRUD, Debugging, Exception Handling, Agile Basics, Version Control (Git)  
+- **Programming:** Python (OOP, Tkinter, File Handling)  
+- **Databases:** MySQL, SQLite3  
+- **Concepts:** Data Cleaning, Transformation, Reporting, CRUD, Debugging  
+- **Tools:** Git (beginner), Jupyter Notebook  
 
 ---
 
-## 🔹 Featured Projects 
+## 🔹 Featured Projects
 
 ### [Excel Projects](./Excel.md)
 - Team Hiring Report Analysis (Main)  
