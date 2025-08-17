@@ -36,5 +36,6 @@ I am passionate about turning raw data into meaningful insights that support dec
 ---
 
 ## 📫 Connect with Me
+- **Resume:** [Download My Resume](./Sneha_S_Resume.pdf)
 - **LinkedIn:** [linkedin.com/in/sneha-s-260633282](https://www.linkedin.com/in/sneha-s-260633282)  
 - **Email:** snehassk592@gmail.com  
